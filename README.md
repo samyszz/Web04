@@ -32,9 +32,10 @@ O **PetCare Manager** é uma solução Full Stack desenvolvida para facilitar o 
 
 | Funcionalidade | Visualização |
 |----------------|--------------|
-| **Dashboard** | ![Read](https://github.com/samyszz/Web04/blob/main/caminho-da-sua-foto-read.jpg) |
-| **Cadastro** | ![Create](https://github.com/samyszz/Web04/blob/main/caminho-da-sua-foto-create.jpg) |
-| **Edição** | ![Update](https://github.com/samyszz/Web04/blob/main/caminho-da-sua-foto-update.jpg) |
+| **Cadastro** | ![Create](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\create.jpg) |
+| **Dashboard** | ![Read](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\read.jpg) |
+| **Edição** | ![Update](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\update.jpg) |
+| **Apagar** | ![Delete](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\delete.jpg) |
 
 ---
 
