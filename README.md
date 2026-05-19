@@ -50,4 +50,4 @@ O **PetCare Manager** é uma solução Full Stack desenvolvida para facilitar o 
    - Acesse `http://localhost:4200`
 
 ---
-Desenvolvido por [Samyra Alves](https://github.com/samyszz) 🌿
+Desenvolvido por [Samyra Alves e Emily Rodrigues] 🌿
