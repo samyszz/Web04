@@ -32,10 +32,10 @@ O **PetCare Manager** é uma solução Full Stack desenvolvida para facilitar o 
 
 | Funcionalidade | Visualização |
 |----------------|--------------|
-| **Cadastro** | ![Create](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\create.jpg) |
-| **Dashboard** | ![Read](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\read.jpg) |
-| **Edição** | ![Update](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\update.jpg) |
-| **Apagar** | ![Delete](C:\Users\samyr\OneDrive\Desktop\web04\frontend\fotoreadme\delete.jpg) |
+| **Cadastro** | ![Create](web04\create.jpg) |
+| **Dashboard** | ![Read](web04\read.jpg) |
+| **Edição** | ![Update](web04\update.jpg) |
+| **Apagar** | ![Delete](web04\delete.jpg) |
 
 ---
 
