@@ -32,10 +32,10 @@ O **PetCare Manager** é uma solução Full Stack desenvolvida para facilitar o 
 
 | Funcionalidade | Visualização |
 |----------------|--------------|
-| **Cadastro** | ![Create](web04\create.jpg) |
-| **Dashboard** | ![Read](web04\read.jpg) |
-| **Edição** | ![Update](web04\update.jpg) |
-| **Apagar** | ![Delete](web04\delete.jpg) |
+| **Cadastro** | ![Create](create.jpg) |
+| **Dashboard** | ![Read](read.jpg) |
+| **Edição** | ![Update](update.jpg) |
+| **Apagar** | ![Delete](delete.jpg) |
 
 ---
 
